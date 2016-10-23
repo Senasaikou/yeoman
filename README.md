@@ -34,7 +34,9 @@
            
   5、安装bower：
           
-           bower install senasaikou                   
+           bower install senasaikou     
+           
+           
            //此为自己的bower，包含less, bootstrap, jquery, react [bower的github](https://github.com/Senasaikou/bower)
 
   6、安装gulp中的less 以及 react
@@ -43,7 +45,7 @@
           
   7、修改gulpfile.js                                   
   
-          //因为改起来太杂直接拷贝此项目的文件拷贝就行(。_。)...
+          因为改起来太杂直接拷贝此项目的文件拷贝就行(。_。)...
   
    <br/>
   8、开启调试
@@ -54,5 +56,6 @@
           gulp                                             
   <br/>
 **over**
-  <br/>
-  **关于 webapp更多的使用方法参照 [generator-webapp](https://github.com/yeoman/generator-webapp)**
+   <br/>
+ ___
+**关于 webapp更多的使用方法参照 [generator-webapp](https://github.com/yeoman/generator-webapp)**
