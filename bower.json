@@ -1,0 +1,39 @@
+{
+  "name": "senasaikou",
+  "private": false,
+  "dependencies": {
+    "less": "^2.7.1",
+    "react": "^15.3.2",
+    "bootstrap": "^3.3.5"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "less/bootstrap.less",
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js",
+        "dist/fonts/*"
+      ]
+    }
+  },
+  "authors": [
+    "Senasaikou <284476221@qq.com>"
+  ],
+  "description": "sena use bower",
+  "main": "",
+  "keywords": [
+    "jquery",
+    "bootstrap",
+    "less",
+    "react"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
