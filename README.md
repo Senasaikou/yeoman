@@ -7,10 +7,12 @@
 
 ## 介绍
 
+###简单实现方法：
+
           cnpm install
           bower install
 
-执行完上述操作后就可在app目录里进行开发。        
+执行完后就可在app目录里进行开发。（即跳过下述过程的1-7步）        
   <br/>
   
 **！！！注意：仔细查看index.html的文件引入格式（less文件引入时html中的后缀名为css，实际为less；react在html中后缀名为js，实际为jsx）**
@@ -37,15 +39,15 @@
            bower install senasaikou     
            
            
-           //此为自己的bower，包含less, bootstrap, jquery, react [bower的github](https://github.com/Senasaikou/bower)
-
+   //此为自己的bower，包含less, bootstrap, jquery, react( [bower的github](https://github.com/Senasaikou/bower) )
+  <br/>
   6、安装gulp中的less 以及 react
   
           npm install --save-dev gulp-babel babel-preset-es2015 babel-preset-react gulp-less
           
   7、修改gulpfile.js                                   
   
-          因为改起来太杂直接拷贝此项目的文件拷贝就行(。_。)...
+          因为改起来稍显杂直接拷贝此项目的文件拷贝就行(。_。)...，具体请参照最后的链接
   
    <br/>
   8、开启调试
