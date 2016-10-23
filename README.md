@@ -36,11 +36,11 @@
            
   5、安装bower：
           
-           bower install senasaikou     
+            bower install senasaikou     
            
            
-   //此为自己的bower，包含less, bootstrap, jquery, react( [bower的github](https://github.com/Senasaikou/bower) )
-  <br/>
+   *此为自己的bower，包含less, bootstrap, jquery, react( [bower的github](https://github.com/Senasaikou/bower) )*
+   <br/>
   6、安装gulp中的less 以及 react
   
           npm install --save-dev gulp-babel babel-preset-es2015 babel-preset-react gulp-less
