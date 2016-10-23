@@ -8,6 +8,7 @@
 ## 介绍
 
 ###简单实现方法：
+clone之后：
 
           cnpm install
           bower install
