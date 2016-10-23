@@ -34,9 +34,9 @@
              
            yo webapp
            
-  5、安装bower：
-          
-            bower install senasaikou     
+  5、安装bower：        
+  
+          bower install senasaikou     
            
            
    *此为自己的bower，包含less, bootstrap, jquery, react( [bower的github](https://github.com/Senasaikou/bower) )*
