@@ -9,10 +9,10 @@
 
 原本实现原理：
 
-首先安装 node。
-安装 yeoman、 bower、 gulp:
-      cnpm install -g yo bower gulp            //用的淘宝npm镜像（未安装可把所有的cnpm改为 npm）
- 
+     首先安装 node。
+     安装 yeoman、 bower、 gulp:
+           cnpm install -g yo bower gulp            //用的淘宝npm镜像（未安装可把所有的cnpm改为 npm）
+
 bower：less, bootstrap, jquery, react
 
 gulp
