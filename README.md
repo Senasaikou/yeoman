@@ -1,5 +1,6 @@
-# 自用的webapp配置文件及目录层级
+# yeoman
 
+自用的webapp配置文件及目录层级
 
 ## 功能
 
@@ -7,10 +8,19 @@
 
 ## 介绍
 
-###简单实现方法：
+###直接安装：
+
+        npm install senasaikou-yeoman                     
+        
+  在/node_modules/senasaikou-yeoman/app下进行开发
+  </br>
+  *ps:1、全大小约350M，所以很慢；2、在windows下无法复制，请妥善安排目录；3、因为淘宝的安装设计问题，不建议用cnpm；4、请尽量使用gitbush而非cmd*
+  <br/>
+
+###clone方法：
 clone之后：
 
-          cnpm install
+          cnpm install                                    //用的淘宝npm镜像（未安装可把所有的cnpm改为 npm）
           bower install
 
 执行完后就可在app目录里进行开发。（即跳过下述过程的1-7步）      
@@ -27,7 +37,7 @@ clone之后：
    
   2、安装 yeoman、 bower、 gulp:
   
-           cnpm install -g yo bower gulp            //用的淘宝npm镜像（未安装可把所有的cnpm改为 npm）
+           cnpm install -g yo bower gulp            
 
   3、安装yeoman的webapp插件：
           
