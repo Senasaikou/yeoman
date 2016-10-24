@@ -63,7 +63,7 @@ clone之后：
   
   6、安装gulp中的less 以及 react
   
-          npm install --save-dev gulp-babel babel-preset-es2015 babel-preset-react gulp-less
+          cnpm install --save-dev gulp-babel babel-preset-es2015 babel-preset-react gulp-less
           
   7、修改gulpfile.js                                   
   
