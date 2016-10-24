@@ -10,11 +10,16 @@
 
 ###直接安装：
 
-        npm install senasaikou-yeoman                     
+
+        npm install senasaikou-yeoman               
+        
         
   在/node_modules/senasaikou-yeoman/app下进行开发
+  
   </br>
+  
   *ps:1、全大小约350M，所以很慢；2、在windows下无法复制，请妥善安排目录；3、因为淘宝的安装设计问题，不建议用cnpm；4、请尽量使用gitbush而非cmd*
+  
   <br/>
 
 ###clone方法：
