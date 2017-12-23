@@ -8,7 +8,7 @@
 
 ## 安装：
 
-###直接安装：
+### 直接安装：
 
 
         npm install senasaikou-yeoman               
@@ -22,7 +22,7 @@
   
   <br/>
 
-###clone方法：
+### clone方法：
 clone之后：
 
           cnpm install                                    //用的淘宝npm镜像（未安装可把所有的cnpm改为 npm）
@@ -36,7 +36,7 @@ clone之后：
 
   <br/>
   
-##原实现过程：
+## 原实现过程：
 
   1、安装 node
    
